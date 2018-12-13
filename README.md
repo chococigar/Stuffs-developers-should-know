@@ -11,8 +11,8 @@
 - [Languages](#languages)
 - [Web Architecture](#web-architecture)
 - [Databases](#databases)
-- [Networks and Scalability](#networks-scalability)
-- [Operational Systems and Architecture](#os-architecture)
+- [Networks/Scalability](#networks/scalability)
+- [Operational Systems/Architecture](#operational-systems/architecture)
 
 
 ## Languages
