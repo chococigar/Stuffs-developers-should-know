@@ -4,7 +4,7 @@
 
 ## Intro
 - Very simple, small collection of things I think a developer should know, organized for personal reasons. 
-	- Any corrections or concerns on this list will be appreciated. Feel free to leave a commit/pull request.
+	- Any addition or correction on this list will be appreciated. Feel free to leave a commit/pull request.
 - The list is updated arbitrarily, and therefore is not comprehensive.
 
 ## Contents
