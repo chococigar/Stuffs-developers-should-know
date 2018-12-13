@@ -1,6 +1,6 @@
 # Stuffs-developers-should-know
 - Made by [Jiyoun Ha](https://github.com/chococigar)
-- Last modified date : 18.12.13
+- Last modified date : Dec 13th, 2018
 
 ## Intro
 - Very simple, small collection of things I think a developer should know, organized for personal reasons. 
@@ -8,33 +8,46 @@
 - The list is updated arbitrarily, and therefore is not comprehensive.
 
 ## Contents
-- [Example](#Example)
+- [Languages](#languages)
+- [Web Architecture](#web-architecture)
+- [Databases](#databases)
+- [Networks/Scalability](#networks-scalability)
+- [Operational Systems/Architecture](#os-architecture)
 
 
 ## Languages
-- Python
-  - Creation : 1980s By Van Rossum 
+- ** Python ** / created in 1980s By Van Rossum 
   - Philosophy : 
   	- High-level, readable code with significant whitespcace
   	- Dynamic type system with automatic memory management
-  	- Errors explicit
-  	- Object-oriented, imperative, functional
-  	- "There should only be one way to do it"
+  	- Errors explicit, Object-oriented, imperative, functional
   - Compilation :
   	- Most modern OS are written in C; compilers/interpreters for high-level languages also likely written in C Language itself (Python) is a just set of rules
   		- Cpython : most popular/traditional implementation
   		- Cython : 'superset of Python', can give Python C-like performance
-  - Variations : Cpython(default), Pypy
+  - Variants : Cpython(default), Pypy, Jython
   - Performance : 
   	- abstracting details (memory managements), runtime interpretation (than compiling to native code in prior) makes it slower than C.
 
-- C
+- ** C ** / created in 1972 by Ritchie (to re-implement Unix)
   - Philosophy : 
-- Javascript
-  - Philosophy : 
+  	- Low-level access to memory
+  	- Very light, no built-in OOP
+  - Compilation : 
+  	- Compiled to native code in prior 
 
 
-## Web general architecture
+- ** Javascript ** / created in 1995 by Eich
+  - Philosophy : 
+  - Javascript = ECMAScript + DOM API
+  	- ECMASCript : standard for scripting languages
+  	- DOM API : allows communication between HTML and XML
+  - Threading : 
+  	- No native threading in Javascript
+  	- "AJAX" : Asynchronous Javascript and XML (extensive markup languages)
+
+
+## Web architecture
 - Python
   - Philosophy : 
 - React v. pure JS+CSS
@@ -48,14 +61,13 @@
 - Indexing (to what extent?)
   - cf) Supernode
 
-## Scalability
+## Networks/Scalability
 - Distributing to different servers
   - Philosophy : 
 - C
   - Philosophy : 
 
-
-## Operations / Architecture
+## Operational Systems/Architecture
 - Threading v. Processes
   - Philosophy : 
   - Pros v. cons of multi-threading : 
