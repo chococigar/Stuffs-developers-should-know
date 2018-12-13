@@ -11,12 +11,12 @@
 - [Languages](#languages)
 - [Web Architecture](#web-architecture)
 - [Databases](#databases)
-- [Networks/Scalability](#networks-scalability)
-- [Operational Systems/Architecture](#os-architecture)
+- [Networks and Scalability](#networks-scalability)
+- [Operational Systems and Architecture](#os-architecture)
 
 
 ## Languages
-- ** Python ** / created in 1980s By Van Rossum 
+- **Python** / created in 1980s By Van Rossum 
   - Philosophy : 
   	- High-level, readable code with significant whitespcace
   	- Dynamic type system with automatic memory management
@@ -29,7 +29,7 @@
   - Performance : 
   	- abstracting details (memory managements), runtime interpretation (than compiling to native code in prior) makes it slower than C.
 
-- ** C ** / created in 1972 by Ritchie (to re-implement Unix)
+- **C** / created in 1972 by Ritchie (to re-implement Unix)
   - Philosophy : 
   	- Low-level access to memory
   	- Very light, no built-in OOP
@@ -37,7 +37,7 @@
   	- Compiled to native code in prior 
 
 
-- ** Javascript ** / created in 1995 by Eich
+- **Javascript** / created in 1995 by Eich
   - Philosophy : 
   - Javascript = ECMAScript + DOM API
   	- ECMASCript : standard for scripting languages
@@ -61,13 +61,13 @@
 - Indexing (to what extent?)
   - cf) Supernode
 
-## Networks/Scalability
+## Networks and Scalability
 - Distributing to different servers
   - Philosophy : 
 - C
   - Philosophy : 
 
-## Operational Systems/Architecture
+## Operational Systems and Architecture
 - Threading v. Processes
   - Philosophy : 
   - Pros v. cons of multi-threading : 
