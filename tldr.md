@@ -1,6 +1,6 @@
 # Stuffs-developers-should-know
 - Made by [Jiyoun Ha](https://github.com/chococigar)
-- Last modified date : Dec 13th, 2018
+- Last modified date : Dec 18th, 2020
 
 ## Intro
 - Very simple, small collection of things I think a developer should know, organized for personal reasons. 
@@ -8,12 +8,24 @@
 - The list is updated arbitrarily, and therefore is not comprehensive.
 
 ## Contents
+- [Internet](#internet)
+- [OS](#os)
+    - [Containers/Virtualization](#container-VM)
 - [Languages](#languages)
-- [Web Architecture](#web-architecture)
 - [Databases](#databases)
+- [API](#api)
+- [Caching](#caching)
+- [Web security](#security)
+- [Testing](#testing)
+- [Design architecture](#design-architecture)
 - [Networks/Scalability](#networks/scalability)
-- [Operational Systems/Architecture](#operational-systems/architecture)
 
+
+- [Web Architecture](#web-architecture)
+
+
+## Internet
+- 
 
 ## Languages
 - **Python** / created in 1980s By Van Rossum 
@@ -88,6 +100,5 @@
 
 ## Reference
 - Interview questions from certain companies
-- Python, @ Wikipedia
-- https://stackoverflow.com/questions/9451929/base-language-of-python
-- 
+- Wikipedia
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) by kamranahmedse@
